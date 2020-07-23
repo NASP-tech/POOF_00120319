@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\marvi\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\marvi\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_POOF.1085486114.00" t="ExcludeRecursive" />
+    <e p="C:\Users\marvi\Desktop\POO\POOF_00100619_00120319\HEAT-TECH SOURCE CODE\POOF" t="IncludeRecursive">
+      <e p="App.config" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Controlador" t="Include">
+        <e p="ConnectionDB.cs" t="Include" />
+        <e p="ControladorDepartamento.cs" t="Include" />
+        <e p="ControladorRegistro.cs" t="Include" />
+        <e p="ControladorUsuario.cs" t="Include" />
+      </e>
+      <e p="CProxy.cs" t="Include" />
+      <e p="Modelo" t="Include">
+        <e p="DepartamentoDAO.cs" t="Include" />
+        <e p="EmpleadoDAO.cs" t="Include" />
+        <e p="RegistroDAO.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="packages.config" t="Include" />
+      <e p="POOF.csproj" t="IncludeRecursive" />
+      <e p="POOF.sln" t="IncludeFlat" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="Resources.Designer.cs" t="Include" />
+        <e p="Resources.resx" t="Include" />
+        <e p="Settings.Designer.cs" t="Include" />
+        <e p="Settings.settings" t="Include" />
+      </e>
+      <e p="Vista" t="Include">
+        <e p="Form1.cs" t="Include" />
+        <e p="Form1.Designer.cs" t="Include" />
+        <e p="Form1.resx" t="Include" />
+        <e p="MainMenu.cs" t="Include" />
+        <e p="MainMenu.Designer.cs" t="Include" />
+        <e p="MainMenu.resx" t="Include" />
+        <e p="NewPassword.cs" t="Include" />
+        <e p="NewPassword.Designer.cs" t="Include" />
+        <e p="NewPassword.resx" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>
